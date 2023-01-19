@@ -1,0 +1,5 @@
+create schema demo;
+create table demo.student();
+insert into demo.student values();
+select * from demo.student;
+docker commit;
